@@ -510,7 +510,7 @@ public:
     }
 
 
-    void trunOnGPS()
+    void turnOnGPS()
     {
 #ifdef LILYGO_WATCH_2020_V2
         // 2020 v2 use axp202 ldo 4
